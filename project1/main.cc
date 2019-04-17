@@ -39,7 +39,7 @@ int main(int argc, char* argv[]){
 			pushQueue(&priQueue,-1);
 		}
 	}
-	else{
+	else {
 		pushQueue(&priQueue,-1);
 	}
 
